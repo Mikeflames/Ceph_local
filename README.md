@@ -494,7 +494,6 @@ If you encounter any problem during any step of ansible run , you can manually s
 # ansible-playbook site.yml -i .vagrant/provisioners/ansible/inventory/vagrant_ansible_inventory --private-key=~/.vagrant.d/insecure_private_key -u vagrant --start-at-task="Installing Ceph packages"
 ```
 
-##This Project Which I have is In with Collaboration With :
-ksingh7.He mentored me to Run these codes and Test Debugging on them to make them User Friendly.
+## This Project Which I have is In with Collaboration With Ceph Developers.
 All user Rights are Reserved To Collaborators.
 
